@@ -1,0 +1,19 @@
+---
+title: "hw1"
+author: "Alexander Stevenson; cyber_atlas"
+date: "January 17, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Data Science is the collection, application, and representation of data and information. The field is exploding right now because of all the data being generated and collected as a result of the proliferation of technilogy in our daily lives. In fact **2.5 quitillion byes of data is generated per day**. As shown [here](https://web-assets.domo.com/blog/wp-content/uploads/2017/07/17_domo_data-never-sleeps-5-01.png).
+
+```{r rVersion}
+version
+```
+
+
