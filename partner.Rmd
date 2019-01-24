@@ -1,0 +1,23 @@
+---
+title: "partner"
+author: "sam"
+date: "January 24, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+1.) Alex Stevenson, Cyber-atlas
+
+2.) he did the homework and added it to the repo, ID: f80542211399db201344b28c57f0b69fb112cdff
+
+3.) Worked Perfectly
+
+4.) Visualize it before you even touch the code, Get a good understanding of basic steps.
+    -have a good gitignore setup as well
+    
+    
